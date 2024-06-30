@@ -1,0 +1,4 @@
+Year        | Opening Balance     | Deposited Amount    | Interest Earned    | Closing Balance    
+1           | 2369.74             | 360.00              | 43.69              | 2403.69            
+2           | 2780.89             | 360.00              | 51.84              | 2815.52            
+3           | 3200.34             | 360.00              | 60.15              | 3235.67            

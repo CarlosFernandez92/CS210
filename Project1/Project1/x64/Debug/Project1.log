@@ -1,0 +1,12 @@
+﻿  FileName.cpp
+C:\Users\nakaz\source\repos\Project1\Project1\FileName.cpp(45,6): warning C4101: 'minConv': unreferenced local variable
+C:\Users\nakaz\source\repos\Project1\Project1\FileName.cpp(47,6): warning C4101: 'secConv': unreferenced local variable
+C:\Users\nakaz\source\repos\Project1\Project1\FileName.cpp(111,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nakaz\source\repos\Project1\Project1\FileName.cpp(112,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nakaz\source\repos\Project1\Project1\FileName.cpp(130,4): warning C4552: '!': result of expression not used
+C:\Users\nakaz\source\repos\Project1\Project1\FileName.cpp(137,4): warning C4552: '!': result of expression not used
+C:\Users\nakaz\source\repos\Project1\Project1\FileName.cpp(142,4): warning C4552: '!': result of expression not used
+C:\Users\nakaz\source\repos\Project1\Project1\FileName.cpp(147,4): warning C4552: '!': result of expression not used
+C:\Users\nakaz\source\repos\Project1\Project1\FileName.cpp(212,13): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\nakaz\source\repos\Project1\Project1\FileName.cpp(231,15): warning C4553: '==': result of expression not used; did you intend '='?
+  Project1.vcxproj -> C:\Users\nakaz\source\repos\Project1\x64\Debug\Project1.exe
